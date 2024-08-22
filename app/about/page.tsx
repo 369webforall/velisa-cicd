@@ -10,6 +10,15 @@ const AboutPage = () => {
         quod ea, totam harum error reprehenderit sit quam nesciunt obcaecati
         voluptas!
       </p>
+      <h2>Count number</h2>
+      <ul>
+        <li>One</li>
+        <li>One</li>
+        <li>One</li>
+        <li>One</li>
+        <li>One</li>
+        <li>One</li>
+      </ul>
     </div>
   );
 };
